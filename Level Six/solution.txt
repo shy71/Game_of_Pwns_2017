@@ -1,0 +1,7 @@
+using ida to reverse the program we see it send the word Knocking
+
+each letter to a diffrent port
+
+Calc the ports and convet them to chars, and it gives the flag
+
+Flag: Weste40s

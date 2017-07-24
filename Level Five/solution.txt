@@ -1,0 +1,7 @@
+an elf program
+
+run the program on a linux VM
+
+send Signal 13 using "kill -13 <ProccesID>"
+
+Flag: Signalist3r

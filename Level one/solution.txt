@@ -1,0 +1,12 @@
+The backupPic is a PNG file
+Using ZSTEG to extract the data
+RG90c0FuZERhc2hlcyB0byBodHRwczovL3d3dy5wcm90ZWN0ZWR0ZXh0LmNvbS9CdXJuVGhlbUFsbCA6IC0tIC0uLS0gfCAuLSAuLS4uIC4tLS4gLi4uLiAuLSAuLS0tLS4gLi4uIHwgLi4tIC4uLiAuIC4tLi4gLiAuLi4gLi4uIHwgLi0tIC4uIC0gLi4uLiAtLS0gLi4tIC0gfCAuLi4uIC4gLS4uLiAuLS4gLiAuLS0gfCAuIC0uIC0uLS4gLi0uIC0uLS0gLi0tLiAtIC4uIC0tLSAtLiAuLi4=
+which is
+'DotsAndDashes to https://www.protectedtext.com/BurnThemAll : -- -.-- | .- .-.. .--. .... .- .----. ... | ..- ... . .-.. . ... ... | .-- .. - .... --- ..- - | .... . -... .-. . .-- | . -. -.-. .-. -.-- .--. - .. --- -. ...'
+
+The morse code tell us to look at the alpah
+
+extracting the alpha gives us the sequence
+using Gematria it translated to hear me roar(written in hebrew)
+
+Flag: "hear me roar"

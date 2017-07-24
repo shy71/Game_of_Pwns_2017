@@ -1,0 +1,16 @@
+decoding from base64 gives us a website, which have the books of game of thrones
+and a list of locations in the books
+
+we need to collect all of the characters on thous locations
+
+we will first save the HTML of all the books, saving them with the needed inforamtion
+
+then, using thous files, we find the characters in the given locations
+
+Can have a problem, if you are using diffrent kind of library to download the html files
+
+I user urllib2 and python2, and i needed to add 3 to every index I had, and still got a problematic result 
+
+Correct Flag: Connect (/last0neever,'SerIlyn,bringmehishead!')
+
+My flag(after adding 3 to index): connect(/last0neever >eernlyn bringmehisheadD>)

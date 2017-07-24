@@ -1,0 +1,5 @@
+Little search on the web for the hardest programing languages and you find out the programing language is "malboge"
+
+execute it online and you get 
+
+Final Flag: GOT{IN_THE_GAME_OF_THRONE5_YOU_WIN_0R_YOU_DIE}

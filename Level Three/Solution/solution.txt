@@ -1,0 +1,7 @@
+You can see the header IEJE
+
+which after testing you find out is JFIF xor with 3
+
+xoring all of the file with 3 gives us a picture with a password inside
+
+Flag: A LANNISTER ALWAYS PAYS HIS DEBTS
