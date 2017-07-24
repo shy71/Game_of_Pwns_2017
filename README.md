@@ -8,6 +8,6 @@ You could read them, but be aware they are short and incomplete, and probalbay h
 <br><br>
 Hopefully I will write a Full write up someday soon
 <br><br>
-Wrtien by:
-Shy Tennenbaum
-shytennenbaum@gmail.com
+Wrtien by:<br>
+Shy Tennenbaum<br>
+shytennenbaum@gmail.com<br>
